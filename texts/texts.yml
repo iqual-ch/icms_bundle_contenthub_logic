@@ -1,0 +1,21 @@
+default_reading_duration:
+  context: bundle_contenthub
+  default:
+    en: '3 minutes'
+    de: '3 Minuten'
+    fr: '3 minutes'
+    it: '3 minuti'
+link_label:
+  context: teaser
+  default:
+    en: 'Read more'
+    de: 'Mehr lesen'
+    fr: 'En savoir plus'
+    it: 'Leggi di più'
+reading_duration:
+  context: bundle_contenthub
+  default:
+    en: 'Reading duration'
+    de: 'Lesedauer'
+    fr: 'Durée de lecture'
+    it: 'Durata della lettura'
